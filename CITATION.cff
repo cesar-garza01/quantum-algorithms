@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Quantum Algorithms for Modular Arithmetic
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cesar Garza
+    email: garzace@uhd.edu
+    affiliation: University of Houston Downtown
+    orcid: 'https://orcid.org/0000-0003-0923-1940'
+  - given-names: Connor Durrenberger
+    affiliation: University of Houston
+repository-code: 'https://github.com/cesar-garza01/quantum-algorithms.git'
+abstract: >-
+  Several Qiskit notebooks for modular arithmetic operations
+  such as modular addition, modular multiplication, and
+  modular exponentiation in quantum circuits.
+keywords:
+  - 'quantum algorithms, noise mitigation'
+license: CC-BY-NC-4.0
+version: '1.0'
+date-released: '2026-05-20'
